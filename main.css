@@ -1,0 +1,27 @@
+h2 {
+    color: rgb(40, 141, 107);
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+a:hover {
+    color: red;
+}
+
+time {
+    color: blue;
+    line-height: 30px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+p {
+    text-align: justify;
+    font-size: 15px;
+    font-family: sans-serif;
+    word-spacing: normal;
+    line-height: 25px;
+}
